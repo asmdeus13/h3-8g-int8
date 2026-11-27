@@ -1,0 +1,51 @@
+One continuous {DURATION}-second photorealistic cinematic shot. {ASPECT}.
+
+〔1. 人物与服装锁定〕
+The same {CHARACTER} as in the reference images. Preserve her facial identity,
+hairstyle and body proportions. She wears {WARDROBE}.
+Real skin, natural anatomy.
+
+〔2. 反站桩 —— 这句必留〕
+The body is never frozen: her chest rises and falls with breathing, her weight
+shifts from one foot to the other across the shot, and her shoulders adjust with
+her arms. Even at the stillest moment there is small live motion.
+
+〔3. 头部时间轴 —— 每镜都要写〕
+HER HEAD: at the start, {WHERE SHE IS LOOKING AT 0.0s — 具体到"看自己的手/看桌面/看门钩"};
+by the middle she {头部动作 — 抬起头 / 保持在原处 / 略微转向}; by the last frame
+{WHERE SHE IS LOOKING AT THE END}.
+Her eyes are on {目标物} — never on the lens.
+
+〔4. 动作过程 —— 三个阶段写具体〕
+0.00s  {首帧状态：手在哪、物件在哪、什么还没发生}
+2.58s  {中间状态：动作走到哪一步、哪几个到位了、哪几个还在路上、在哪}
+5.125s {末帧状态：动作完成、物件落在哪、什么变了}
+
+〔5. 运镜 —— 必须给数值，不许只写 slowly〕
+The camera {推进/拉远/俯摇/仰摇/横移} by about {N}% of the frame width
+{或 about {N} degrees of tilt} at a constant speed, from {起点景别} to {终点景别}.
+It keeps moving for the whole shot — no move that finishes in the first second.
+
+〔6. 接住上一镜 —— 首镜写"全片开头"〕
+Continuing from the previous shot: {上一镜末帧的状态，一句话}.
+
+〔7. 禁止项（用正向措辞，别只写 don't）〕
+No text, no watermark. Exactly {N} {道具} — not {N-1}, not {N+1}.
+She is concentrating on what she is doing, not posing for the camera.
+
+---
+
+〔填完自查六条〕
+□ 头部动作：某个时刻头转向哪 / 视线落在哪（不是只有手在动）
+□ 反站桩：有"body is never frozen"这类条款
+□ 运镜可执行：给了画面宽度百分比或角度，不是 slowly/subtle
+□ 时间坐标：0.0 / 2.58 / 5.125 三个时刻都写了具体状态
+□ 接住上一镜：第一句写了从哪来（首镜写"opening shot"）
+□ 正向写法："不要做什么"改写成了"该做什么"
+
+〔占位符说明〕
+{DURATION}   5.1667（124 帧 @ 24fps）
+{ASPECT}     4:3 horizontal（或按你的成片比例）
+{CHARACTER}  用你的角色卡描述：年龄/发型/五官要点
+{WARDROBE}   逐件列，越具体越好（含配饰、发卡、围巾这类辨识物）
+{N}          道具数量的精确值——写死，并在禁止项里再强调一次
